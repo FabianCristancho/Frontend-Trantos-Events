@@ -15,7 +15,7 @@ El diseño de este sitio web informativo surge de la necesidad de dar a conocer 
 ### Eventos
 ![Vista de eventos que ofrecen](./design/events.jpg)
 
-### Opinions
+### Opiniones
 ![Vista de eventos que ofrecen](./design/opinions.jpg)
 
 Gracias por tu tiempo🙂
